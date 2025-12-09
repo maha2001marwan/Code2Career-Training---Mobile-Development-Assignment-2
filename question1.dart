@@ -9,5 +9,5 @@ void main() {
   
   int bitwiseNot = ~castedNum;
   
-  print(num1 > num2 ? true : false);
+  print(num1 > num2 ? "true" : "false");
 }
